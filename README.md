@@ -18,7 +18,7 @@ solutions implemented in Java.
 
 | Topic | Problems Solved |
 |---|---:|
-| Arrays | 1 |
+| Arrays | 2 |
 | Strings | 0 |
 | Linked Lists | 0 |
 | Stacks & Queues | 0 |
