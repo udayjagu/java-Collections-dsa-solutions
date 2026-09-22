@@ -19,7 +19,7 @@ solutions implemented in Java.
 | Topic | Problems Solved |
 |---|---:|
 | Arrays | 8 |
-| Strings | 3 |
+| Strings | 4 |
 | Linked Lists | 0 |
 | Stacks & Queues | 0 |
 | HashMaps | 0 |
