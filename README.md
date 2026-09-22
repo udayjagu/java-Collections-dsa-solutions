@@ -7,6 +7,7 @@ solutions implemented in Java.
 
 - Arrays
 - Strings
+- Two Sum
 - Linked Lists
 - Stacks & Queues
 - HashMaps
@@ -20,6 +21,7 @@ solutions implemented in Java.
 |---|---:|
 | Arrays | 8 |
 | Strings | 8 |
+| Two Sum | 1 |
 | Linked Lists | 0 |
 | Stacks & Queues | 0 |
 | HashMaps | 0 |
