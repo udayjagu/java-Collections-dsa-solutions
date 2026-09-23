@@ -5,29 +5,31 @@ solutions implemented in Java.
 
 ## 📚 Topics
 
-- Arrays
-- Strings
-- Two Sum
-- Linked Lists
-- Stacks & Queues
-- HashMaps
-- Trees
-- Graphs
-- Dynamic Programming
+* Arrays
+* Strings
+* Two Sum
+* Linked Lists
+* Stacks & Queues
+* HashMaps
+* Math
+* Trees
+* Graphs
+* Dynamic Programming
 
 ## 📊 Progress
 
-| Topic | Problems Solved |
-|---|---:|
-| Arrays | 8 |
-| Strings | 8 |
-| Two Sum | 1 |
-| Linked Lists | 0 |
-| Stacks & Queues | 0 |
-| HashMaps | 0 |
-| Trees | 0 |
-| Graphs | 0 |
-| Dynamic Programming | 0 |
+| Topic               | Problems Solved |
+| ------------------- | --------------: |
+| Arrays              |               8 |
+| Strings             |               8 |
+| Two Sum             |               1 |
+| Linked Lists        |               0 |
+| Stacks & Queues     |               0 |
+| HashMaps            |               0 |
+| Math                |               1 |
+| Trees               |               0 |
+| Graphs              |               0 |
+| Dynamic Programming |               0 |
 
 ---
 
