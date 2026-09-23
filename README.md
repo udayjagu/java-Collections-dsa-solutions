@@ -26,7 +26,7 @@ solutions implemented in Java.
 | Linked Lists        |               0 |
 | Stacks & Queues     |               0 |
 | HashMaps            |               0 |
-| Math                |               1 |
+| Math                |               2 |
 | Trees               |               0 |
 | Graphs              |               0 |
 | Dynamic Programming |               0 |
