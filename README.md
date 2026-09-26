@@ -21,7 +21,7 @@ solutions implemented in Java.
 | Topic               | Problems Solved |
 | ------------------- | --------------: |
 | Arrays              |               10 |
-| Strings             |               8 |
+| Strings             |               9 |
 | Two Sum             |               1 |
 | Linked Lists        |               0 |
 | Stacks & Queues     |               0 |
