@@ -20,7 +20,7 @@ solutions implemented in Java.
 
 | Topic               | Problems Solved |
 | ------------------- | --------------: |
-| Arrays              |               8 |
+| Arrays              |               9 |
 | Strings             |               8 |
 | Two Sum             |               1 |
 | Linked Lists        |               0 |
