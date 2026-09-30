@@ -25,7 +25,7 @@ solutions implemented in Java.
 | Two Sum             |               1 |
 | Linked Lists        |               0 |
 | Stacks & Queues     |               0 |
-| HashMaps            |               2 |
+| HashMaps            |               3 |
 | Math                |               2 |
 | Trees               |               0 |
 | Graphs              |               0 |
